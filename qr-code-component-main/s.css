@@ -1,0 +1,9 @@
+.square-box{
+    max-width: 200px;
+    min-height: 400px;
+    border: 1px solid black;
+}
+img{
+   height: 100px;
+   width: 90px; 
+}
